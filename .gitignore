@@ -1,0 +1,16 @@
+#SQL Server Database files
+*.mdf
+*.ldf
+*.db
+.log
+
+#Visual Studio
+bin/
+obj/
+packages/
+.vs/
+ملاحظاااااااااااااااااااااااات/
+
+#user files
+*.user
+*.suo
