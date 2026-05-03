@@ -6,6 +6,7 @@ namespace Task_Manager
 {
     public partial class Form1 : Form
     {
+        string ForkMyFuture = "Fork My Future";
         public Form1()
         {
             InitializeComponent();
